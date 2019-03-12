@@ -1,6 +1,7 @@
 module.exports = {
   title: 'T-T',
   description: 'fengT-T的Github Page',
+  dest: 'docs',
   themeConfig: {
     displayAllHeaders: true,
     sidebar: 'auto',
