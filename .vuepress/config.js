@@ -12,5 +12,13 @@ module.exports = {
       { text: 'CoCoMusic', link: 'https://github.com/xtuJSer/CoCoMusic' },
     ]
   },
+  plugins: [
+    [ 
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-136247470-1'
+      }
+    ]  
+  ],
   evergreen: true
 }

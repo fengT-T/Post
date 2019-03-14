@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.0.0-alpha.44",
     "vuepress": "^1.0.0-alpha.44"
   }
 }
