@@ -12,7 +12,8 @@ module.exports = {
       {
         text: '科学装逼', 
         items: [
-          { text: '编程装逼技巧', link: '/art-of-programming/' }
+          { text: '编程装逼技巧', link: '/装逼/' },
+          { text: 'web装逼技巧', link: '/web/' }
         ]
       },
       { text: 'CoCoMusic', link: 'https://github.com/xtuJSer/CoCoMusic' },
