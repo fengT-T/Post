@@ -18,11 +18,11 @@ if (userName) {
 ```
 但是这样的硬编码明显不够,回忆一下一个普通的验证器可以是下面这样的，验证函数之间可以相互替换组合，而不是硬编码到验证类里面。
 
-<<< @/art-of-programming/Strategy/test.js
+<<< @/装逼/Strategy/test.js
 
 Validator 的话可以是这样的
 
-<<< @/art-of-programming/Strategy/Validator.js
+<<< @/装逼/Strategy/Validator.js
 
 ## 装逼小技巧
 
