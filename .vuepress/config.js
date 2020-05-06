@@ -9,14 +9,7 @@ module.exports = {
     nav: [
       { text: 'JavaScript', link: '/JavaScript/' },
       { text: 'Other', link: '/Other/' },
-      {
-        text: '科学装逼', 
-        items: [
-          { text: '编程装逼技巧', link: '/装逼/' },
-          { text: 'web装逼技巧', link: '/web/' }
-        ]
-      },
-      { text: 'CoCoMusic', link: 'https://github.com/xtuJSer/CoCoMusic' },
+      { text: 'CoCoMusic', link: '/CoCoMusic/index.html' },
     ]
   },
   plugins: [
